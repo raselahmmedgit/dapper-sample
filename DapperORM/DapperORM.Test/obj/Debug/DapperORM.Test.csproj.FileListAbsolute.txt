@@ -1,0 +1,10 @@
+E:\Azim Professional\Learning\DapperORM\DapperORM.Test\bin\Debug\DapperORM.Test.exe.config
+E:\Azim Professional\Learning\DapperORM\DapperORM.Test\bin\Debug\DapperORM.Test.exe
+E:\Azim Professional\Learning\DapperORM\DapperORM.Test\bin\Debug\DapperORM.Test.pdb
+E:\Azim Professional\Learning\DapperORM\DapperORM.Test\bin\Debug\DapperORM.Core.dll
+E:\Azim Professional\Learning\DapperORM\DapperORM.Test\bin\Debug\DapperORM.Core.pdb
+E:\Azim Professional\Learning\DapperORM\DapperORM.Test\obj\Debug\DapperORM.Test.csprojResolveAssemblyReference.cache
+E:\Azim Professional\Learning\DapperORM\DapperORM.Test\obj\Debug\DapperORM.Test.exe
+E:\Azim Professional\Learning\DapperORM\DapperORM.Test\obj\Debug\DapperORM.Test.pdb
+E:\Azim Professional\Learning\DapperORM\DapperORM.Test\bin\Debug\Dapper.dll
+E:\Azim Professional\Learning\DapperORM\DapperORM.Test\bin\Debug\Dapper.xml

@@ -1,0 +1,7 @@
+E:\Azim Professional\Learning\DapperORM\DapperORM.Core\bin\Debug\DapperORM.Core.dll
+E:\Azim Professional\Learning\DapperORM\DapperORM.Core\bin\Debug\DapperORM.Core.pdb
+E:\Azim Professional\Learning\DapperORM\DapperORM.Core\obj\Debug\DapperORM.Core.dll
+E:\Azim Professional\Learning\DapperORM\DapperORM.Core\obj\Debug\DapperORM.Core.pdb
+E:\Azim Professional\Learning\DapperORM\DapperORM.Core\bin\Debug\Dapper.dll
+E:\Azim Professional\Learning\DapperORM\DapperORM.Core\bin\Debug\Dapper.xml
+E:\Azim Professional\Learning\DapperORM\DapperORM.Core\obj\Debug\DapperORM.Core.csprojResolveAssemblyReference.cache
